@@ -10,7 +10,7 @@
 
 - Python 3.9.13
 - Django 3.2.25
-- SQLite
+- SQLite 3.x.x
 
 ## Установка (Windows):
 
